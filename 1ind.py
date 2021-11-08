@@ -11,3 +11,4 @@ if 0 >= a:
 else:
  if a < 10:
   print ('1')
+  print("23")
